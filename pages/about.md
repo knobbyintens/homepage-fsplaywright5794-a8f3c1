@@ -10,8 +10,6 @@ I study efficient sequence modeling and the systems that make large models pract
 
 <!-- toolbox:start -->
 
-
-
 <p class="tool"><a href="https://github.com/karpathy/nanoGPT"><strong>karpathy/nanoGPT</strong></a><br>
 <span class="tool-desc">The simplest, fastest repository for training/finetuning medium-sized GPTs.</span><br>
 <span class="tool-meta">Python · 64.6k stars</span></p>
@@ -27,6 +25,8 @@ I study efficient sequence modeling and the systems that make large models pract
 <p class="tool"><a href="https://github.com/state-spaces/mamba"><strong>state-spaces/mamba</strong></a><br>
 <span class="tool-desc">Mamba SSM architecture.</span><br>
 <span class="tool-meta">Python · 19.0k stars</span></p>
+
+<!-- toolbox:end -->
 
 ## Contact
 
