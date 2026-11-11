@@ -22,10 +22,6 @@ I study efficient sequence modeling and the systems that make large models pract
 <span class="tool-desc">LLM inference in C/C++.</span><br>
 <span class="tool-meta">C++ · 134k stars</span></p>
 
-<p class="tool"><a href="https://github.com/state-spaces/mamba"><strong>state-spaces/mamba</strong></a><br>
-<span class="tool-desc">Mamba SSM architecture.</span><br>
-<span class="tool-meta">Python · 19.0k stars</span></p>
-
 <!-- toolbox:end -->
 
 ## Talks & Service
