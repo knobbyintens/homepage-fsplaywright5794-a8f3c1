@@ -1,0 +1,15 @@
+body {
+  max-width: 46rem;
+  margin: 0 auto;
+  font-family: system-ui, sans-serif;
+  line-height: 1.55;
+}
+
+.tool {
+  margin: 1.25rem 0;
+}
+
+.tool-meta {
+  color: #666;
+  font-size: 0.9em;
+}
